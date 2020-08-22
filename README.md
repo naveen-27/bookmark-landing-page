@@ -8,4 +8,4 @@ Challenge from "Frontendmentor.io".
 3. Vannila JavaScript
 
 ### Design : 
-<img src="./images/design.jpg" width="70%" margin-top="1rem" alt="Design" />
+<img src="./images/design.jpg" width="80%" margin-top="1rem" alt="Design" />
