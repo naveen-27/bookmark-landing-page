@@ -188,10 +188,6 @@ h2 {
     text-align: left;
 }
 
-.hidden {
-    display: none;
-}
-
 .cta {
     display: flex;
     flex-direction: column;
@@ -556,4 +552,8 @@ img.hidden:hover {
         margin-top: 1rem;
         width: 80%;
     }
+}
+
+.hidden {
+    display: none;
 }
