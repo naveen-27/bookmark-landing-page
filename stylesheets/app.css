@@ -11,6 +11,11 @@
 
 header {
     padding: 2rem 5rem;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 2;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
 nav {
@@ -101,7 +106,6 @@ h1, h2 {
 
 .hero-img img {
     width: 100%;
-    z-index: 1;
 }
 
 .hero-img::after {
